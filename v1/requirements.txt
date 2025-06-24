@@ -1,0 +1,21 @@
+﻿# Ingestion
+unstructured
+
+# NLP & KG
+spacy
+networkx
+
+# Embeddings & vector DB
+sentence-transformers
+faiss-cpu
+chromadb
+
+# BM25
+rank-bm25
+
+# Local LLM
+llama-cpp-python
+
+# API
+fastapi
+uvicorn
